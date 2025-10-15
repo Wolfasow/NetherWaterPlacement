@@ -1,0 +1,10 @@
+# =============================================
+# NetherWaterPlacement Configuration
+# Версия: 1.0.0
+# Автор: Wolf
+# Telegram: https://t.me/zxzniktozxz
+# Дата: Четверг, 16 окт. Мск 00:02
+# =============================================
+
+# Право доступа для размещения воды в Аду
+permission: "netherwaterplacement.place"
