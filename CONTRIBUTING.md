@@ -1,4 +1,4 @@
-# ==================== CONTRIBUTING.md ====================
+# ==== CONTRIBUTING.md ====
 
 # Вклад в NetherWaterPlacement
 
